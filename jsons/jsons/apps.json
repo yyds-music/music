@@ -1,0 +1,1199 @@
+[
+  {
+    "url": "https://testflight.apple.com/join/DkPMy9qx",
+    "name": "万源阅读(苹果)",
+    "description": "万千书源 想读就读",
+    "iconUrl": "https://raw.githubusercontent.com/yyds-book/book/main/image/icon.jpg",
+    "packageName": "",
+    "bundleId": "",
+    "urlScheme": ""
+  },
+    {
+    "url": "https://pan.lanzoub.com/flutter-reader",
+    "name": "万源阅读(安卓)",
+    "description": "万源阅读专为阅读爱好者用户而设计。",
+    "iconUrl": "https://raw.githubusercontent.com/yyds-book/book/main/image/icon.jpg",
+    "packageName": "",
+    "bundleId": "",
+    "urlScheme": ""
+  },
+  {
+    "url": "",
+    "name": "腾讯视频",
+    "description": "庆余年热播",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_3040_1579418166/256",
+    "packageName": "com.tencent.qqlive",
+    "bundleId": "458318329",
+    "urlScheme": "tenvideo://"
+  },
+  {
+    "url": "",
+    "name": "QQ音乐",
+    "description": "新春领好运，亿元红包“鼠”于你",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_6259_1579329439/256",
+    "packageName": "com.tencent.qqmusic",
+    "bundleId": "414603431",
+    "urlScheme": "qqmusic://"
+  },
+  {
+    "url": "",
+    "name": "腾讯手机管家—QQ微信保护",
+    "description": "微信QQ官方安全软件，免费上网",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_5284_1579248583/256",
+    "packageName": "com.tencent.qqpimsecure",
+    "bundleId": "439638720",
+    "urlScheme": "mqqsecure://"
+  },
+  {
+    "url": "",
+    "name": "腾讯体育-中超英超直播",
+    "description": "NBA、CBA、电竞、NFL视频直播",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_1297151_1579595028/256",
+    "packageName": "com.tencent.qqsports",
+    "bundleId": "570608623",
+    "urlScheme": "qqsports://"
+  },
+  {
+    "url": "",
+    "name": "看点快报",
+    "description": "腾讯看点兴趣阅读平台",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12082013_1579167290/256",
+    "packageName": "com.tencent.reading",
+    "bundleId": "996866372",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "拳皇命运：Angelababy也来KO",
+    "description": "正版拳皇格斗手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52531816_1576566249/256",
+    "packageName": "com.tencent.kof",
+    "bundleId": "125033991",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "腾讯地图",
+    "description": "实时公交路线导航路况查询出行",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10237_1579239058/256",
+    "packageName": "com.tencent.map",
+    "bundleId": "481623196",
+    "urlScheme": "qqmap://"
+  },
+  {
+    "url": "",
+    "name": "龙族幻想",
+    "description": "《龙族幻想》是一款次时代MMORPG新作，游戏内实时天气变化结合动态点光源技术，打造更加真实的游戏世界；电影级的剧情表现，增强游戏带入感；重视过程体验的丰富游戏玩法，带来良好的游戏体验。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52766642_1578899100/256",
+    "packageName": "com.tencent.lzhx",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "腾讯新闻-事实派，真实客观的精品资讯",
+    "description": "看新闻攒积分，壕礼兑不停",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_5613_1579252989/256",
+    "packageName": "com.tencent.news",
+    "bundleId": "399363156",
+    "urlScheme": "qqnews://"
+  },
+  {
+    "url": "",
+    "name": "妖精的尾巴：魔导少年",
+    "description": "腾讯全新自研回合RPG手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52487650_1579138481/256",
+    "packageName": "com.tencent.ft",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "微视-瓜分十亿现金红包",
+    "description": "视频红包拜大年",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10261931_1579509110/256",
+    "packageName": "com.tencent.weishi",
+    "bundleId": "691828408",
+    "urlScheme": "weishi://"
+  },
+  {
+    "url": "",
+    "name": "跑跑卡丁车官方竞速版",
+    "description": "十三年竞速经典回归",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52750606_1578292920/256",
+    "packageName": "com.tencent.tmgp.WePop",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "腾讯直播",
+    "description": "明星大咖零距离互动，等你来撩!",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12268734_1555792614/256",
+    "packageName": "com.tencent.qqlivebroadcast",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "QQ炫舞手游",
+    "description": "原版IP唯一正版",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52455981_1578623717/256",
+    "packageName": "com.tencent.tmgp.qqx5",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "QQ",
+    "description": "乐在沟通20年，聊天欢乐9亿人！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_6633_1577985678/256",
+    "packageName": "com.tencent.mobileqq",
+    "bundleId": "444934666",
+    "urlScheme": "mqq://"
+  },
+  {
+    "url": "",
+    "name": "水印相机",
+    "description": "√ 2013年中国互联网年度“极佳用户体验”产品，千万用户的共同选择\r √ 国内首屈一指的文艺、受欢迎的照片加水印软件\r \r **** 功能介绍 ****\r 把“好故事”印在照片上！ \r 1.丰富的水印类型：拥有特色、心情、人像等7大类百余款水印；\r 2.智能的水印模版：地点、时间、分贝、海拔、，智能水印自动添加到照片上；\r 3.自定义水印内容：地点修改、心情编辑，你的水印你说了算\r 4.人像水印新玩法：真身大鉴定、魅力值等，让拍照更欢乐；\r 5、极致美颜滤镜：提升人像美感，增强图片质感。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_1264115_1575364956/256",
+    "packageName": "com.tencent.zebra",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "和平精英",
+    "description": "腾讯光子工作室群自研打造的军事竞赛体验手游。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52575843_1578017596/256",
+    "packageName": "com.tencent.tmgp.pubgmhd",
+    "bundleId": "132180370",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "微信",
+    "description": "1.可以发语音、文字消息、表情、图片、视频30M流量可以收发上千条语音，省电省流量\r 2.朋友圈，跟朋友们分享生活点滴\r 3.摇一摇、查看附近的人，世界不再有陌生人\r 4.扫一扫，可以扫商品条码、图书封面、CD封面，甚至扫描英文单词来翻译成中文\r 5.公众帐号，用微信关注明星、看新闻、设提醒\r 6.游戏中心，和朋友们一起玩游戏\r 7.表情商店，有趣好玩的表情在这里特别说明：微信只消耗网络流量，不产生短信电话费用",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10910_1578408738/256",
+    "packageName": "com.tencent.mm",
+    "bundleId": "414478124",
+    "urlScheme": "weixin://"
+  },
+  {
+    "url": "",
+    "name": "QQ创意相机",
+    "description": "让你的照片从此会说话。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_1272034_1555796543/256",
+    "packageName": "com.tencent.qqpicshow",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "王牌战士",
+    "description": "《王牌战士》由腾讯游戏魔方工作室群研发的热血漫多角色射击手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52740850_1578971064/256",
+    "packageName": "com.tencent.af",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "QQ浏览器-便捷管理手机文件",
+    "description": "便捷管理手机文件",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11384_1578647134/256",
+    "packageName": "com.tencent.mtt",
+    "bundleId": "370139302",
+    "urlScheme": "mttbrowser://"
+  },
+  {
+    "url": "",
+    "name": "腾讯清理大师-手机卫士管家",
+    "description": "手机深度清理，一键加速解决卡顿",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52760905_1579250944/256",
+    "packageName": "android.lite.clean",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "AcFun",
+    "description": "动漫二次元搞笑弹幕视频社区",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10173677_1578649319/256",
+    "packageName": "tv.acfundanmaku.video",
+    "bundleId": "894974941",
+    "urlScheme": "acfun://"
+  },
+  {
+    "url": "",
+    "name": "央视频",
+    "description": "给父母下载央视频手机也能看电视",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_53950706_1580557065/256",
+    "packageName": "com.cctv.yangshipin.app.androidp",
+    "bundleId": "147981460",
+    "urlScheme": "cctvvideo://"
+  },
+  {
+    "url": "",
+    "name": "看房-买房、找房、楼盘、房产、看房团",
+    "description": "买房查房价房贷计算一站搞定",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10207443_1555690188/256",
+    "packageName": "com.tencent.qqhouse",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "小企鹅乐园",
+    "description": "互动游戏让每个宝宝都是大导演",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42331086_1579510560/256",
+    "packageName": "com.tencent.qqlivekid",
+    "bundleId": "110873998",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "酷狗音乐",
+    "description": "4000万正版曲库",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_9685_1579175710/256",
+    "packageName": "com.kugou.android",
+    "bundleId": "472208016",
+    "urlScheme": "kugouURL://"
+  },
+  {
+    "url": "",
+    "name": "微信读书",
+    "description": "好看小说、全本小说，全都免费!",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12144239_1579240622/256",
+    "packageName": "com.tencent.weread",
+    "bundleId": "952059546",
+    "urlScheme": "weread://"
+  },
+  {
+    "url": "",
+    "name": "企鹅电竞",
+    "description": "腾讯官方游戏直播平台",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42240516_1579140939/256",
+    "packageName": "com.tencent.qgame",
+    "bundleId": "111116047",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "快手",
+    "description": "在快手 点赞中国年",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_2608_1580451926/256",
+    "packageName": "com.smile.gifmaker",
+    "bundleId": "440948110",
+    "urlScheme": "kwai://"
+  },
+  {
+    "url": "",
+    "name": "QQ阅读-小说漫画电子书阅读器",
+    "description": "【精选推荐】\r 推荐页依据用户喜好，筛选优质内容，这里找的，包你喜欢～\r 男生、女生、出版，编辑精选热门内容，一网打尽\r 会员页，会员新书、热书、全库书，会员用户免费读\r 漫画、听书，阅读以外，还有更多内容等你体验\r \r 【福利专区】\r 阅读时长兑换、等级礼包、漫画礼包、听书礼包、包月礼包，一站领取\r 更有不定期福利活动，没事看一看，优惠跑不掉～\r \r 【新手福利】\r 新用户下载QQ阅读，10天全场免费读！\r 个性限免书库，在读限免书库，延续免费阅读书\r \r 【热门内容】\r 《庆余年》张若昀、李沁主演同名电视剧，江湖庙堂，千山万水，少年初心。\r 《鹤唳华亭》同名电视剧罗晋、李一桐主演，千万读者期待的权谋古言经典。\r 《吹哨人》电影雷佳音、汤唯主演，《北京遇上西雅图》导演薛晓璐作品，平台独家首发。\r 《我的房分你一半》叶非夜现代言情新书来袭，我们都活成了当初梦想中的样子，我们都还没忘记彼此。\r 《从我是特种兵开始打卡》穿越到《我是特种兵》世界，得到辅助引擎的支持，他逐步成为所有士兵的王！\r 《余生有你，甜又暖》被霸道总裁附身是种怎样的体验？囧囧有妖带你走进这个神奇的言情故事。\r 《不知东方既白》以法为绳，以律为镜，王仁君、张静静主演，美女作家橘子宸真实还原强强对决的情法大戏。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10555_1579233602/256",
+    "packageName": "com.qq.reader",
+    "bundleId": "487608658",
+    "urlScheme": "qqreader://"
+  },
+  {
+    "url": "",
+    "name": "QQ空间",
+    "description": "QQ空间，分享生活，留住感动！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_9959_1578453431/256",
+    "packageName": "com.qzone",
+    "bundleId": "364183992",
+    "urlScheme": "mqzone://"
+  },
+  {
+    "url": "",
+    "name": "企鹅FM-听小说相声情感音乐",
+    "description": "海量热门免费有声小说！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11789440_1579083860/256",
+    "packageName": "com.tencent.radio",
+    "bundleId": "978646727",
+    "urlScheme": "nextradio://"
+  },
+  {
+    "url": "",
+    "name": "斗鱼直播",
+    "description": "斗鱼-高清游戏互动视频直播",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10921913_1579596729/256",
+    "packageName": "air.tv.douyu.android",
+    "bundleId": "863882795",
+    "urlScheme": "douyuapp://"
+  },
+  {
+    "url": "",
+    "name": "央视影音",
+    "description": "新闻体育人文影视高清平台",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_289862_1579767259/256",
+    "packageName": "cn.cntv",
+    "bundleId": "331259725",
+    "urlScheme": "cntvCBox://"
+  },
+  {
+    "url": "",
+    "name": "手游宝-游戏(团本)语音开黑福利社区",
+    "description": "真实有声好玩的游戏开黑语音社区",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10569498_1574128977/256",
+    "packageName": "com.tencent.gamejoy",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "相册管家-换机照片备份",
+    "description": "换手机备份照片，相册迁移不丢失",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10545635_1579070245/256",
+    "packageName": "com.tencent.gallerymanager",
+    "bundleId": "113910165",
+    "urlScheme": "photogallery://"
+  },
+  {
+    "url": "",
+    "name": "虎牙直播",
+    "description": "热门游戏赛事直播",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10328082_1579087282/256",
+    "packageName": "com.duowan.kiwi",
+    "bundleId": "871095743",
+    "urlScheme": "yykiwi://"
+  },
+  {
+    "url": "",
+    "name": "侍魂",
+    "description": "一款经典的格斗游戏.幕府末年,天地异变,疾病,战乱,天灾,世界一片混乱,就在此时,出现了一个身怀特异之功,传播邪教的男子——天草四郎时贞,浑身散溢着妖气的他,在日本迅猛地扩散自己的势力.正义的武士们,纷纷拿起了刀. 侍魂经典标题自第一部作品就已经全部出场了.此外,赤手空拳的攻防战,飞溅的血沫,劈成两截的尸体,这些惨烈的场面,更加刺激了玩家精神.",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_5223_1556208455/256",
+    "packageName": "com.androidemu.snesf0962",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "腾讯企鹅辅导",
+    "description": "腾讯自营中小学网校",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42294069_1579403047/256",
+    "packageName": "com.tencent.k12",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "腾讯课堂",
+    "description": "名师课程  职业培训在线学习网校",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10927178_1579086419/256",
+    "packageName": "com.tencent.edu",
+    "bundleId": "931720936",
+    "urlScheme": "tencentedu://"
+  },
+  {
+    "url": "",
+    "name": "火猫直播",
+    "description": "年轻人的直播社区",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11473584_1576140240/256",
+    "packageName": "com.huomaotv.mobile",
+    "bundleId": "966104279",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "穿越火线-枪战王者（国民枪战手游）",
+    "description": "CF正版FPS手游震撼来袭！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12165022_1578621890/256",
+    "packageName": "com.tencent.tmgp.cf",
+    "bundleId": "104254588",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "腾讯动漫",
+    "description": "三万部全彩热门漫画看过瘾",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_256164_1578912897/256",
+    "packageName": "com.qq.ac.android",
+    "bundleId": "569387346",
+    "urlScheme": "comicreader://"
+  },
+  {
+    "url": "",
+    "name": "美团-团购美食电影酒店优惠",
+    "description": "美食外卖啥都有电影酒店巨优惠",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11109_1579250094/256",
+    "packageName": "com.sankuai.meituan",
+    "bundleId": "423084029",
+    "urlScheme": "imeituan://"
+  },
+  {
+    "url": "",
+    "name": "大众点评",
+    "description": "大众点评-分享你的潮生活",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_7960_1579158800/256",
+    "packageName": "com.dianping.v1",
+    "bundleId": "351091731",
+    "urlScheme": "dianping://"
+  },
+  {
+    "url": "",
+    "name": "魂斗罗：归来",
+    "description": "《魂斗罗：归来》经典IP热血回归，一起并肩打通关！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12118307_1578985558/256",
+    "packageName": "com.tencent.shootgame",
+    "bundleId": "983122251",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "传奇世界3D",
+    "description": "《传奇世界3D》是腾讯首款传奇3Dmmorpg大作，传承15年传世经典玩法，画面全面升级，特色攻沙加以创新，带来颠覆性手游体验！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52639520_1577412373/256",
+    "packageName": "com.tencent.woool3d",
+    "bundleId": "135292432",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "王者营地",
+    "description": "《王者荣耀助手》全新升级为《王者营地》",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42287337_1574394576/256",
+    "packageName": "com.tencent.gamehelper.smoba",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "龙珠直播",
+    "description": "高清美女主播，龙珠懂你",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12026135_1578987947/256",
+    "packageName": "com.longzhu.tga",
+    "bundleId": "989087237",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "58同城 -租房招聘兼职二手车",
+    "description": "招聘租房二手房二手车",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_6512_1579185543/256",
+    "packageName": "com.wuba",
+    "bundleId": "480079300",
+    "urlScheme": "wbmain://"
+  },
+  {
+    "url": "",
+    "name": "脑力达人",
+    "description": "《脑力达人》是一款整合了大量益智玩法的益智合集类应用 炫彩连接、俄罗斯方块、华容道、绳艺、2048、点消、一步、感染...... 只有你想不到，没有你玩不到的益智玩法！还有更多随着游戏更新不断加入的新玩法！ 这里有精美的画面，有温馨的音乐，有流畅的体验，还有烧脑的难题~ 想要证明自己的IQ，想要锻炼自己的大脑？脑力达人是你的不二之选！ 快来下载脑力达人，开始一场脑力的挑战吧！ 游戏特色 -丰富的益智玩法，让你一次过够瘾 -应用画面简介美观，背景音乐丰富动听 -不断更新的新玩法，根本停不下来 -海量关卡、多种难度模式等你挑战 -完善的排行榜系统，比一比谁才是真正的脑力达人",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52923238_1555804594/256",
+    "packageName": "com.yunbu.puzzleking.app.huawei",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "微桌面（智能语音主题壁纸美化锁屏）",
+    "description": "全新一代智能、高效桌面管理软件",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12052257_1555094642/256",
+    "packageName": "com.tencent.qlauncher.lite",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "新浪微博",
+    "description": "集卡开鸿运，除夕分一亿",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_9926_1579505682/256",
+    "packageName": "com.sina.weibo",
+    "bundleId": "350962117",
+    "urlScheme": "sinaweibo://"
+  },
+  {
+    "url": "",
+    "name": "腾讯新闻极速版",
+    "description": "全新瘦身，给你畅快体验！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52812185_1579074361/256",
+    "packageName": "com.tencent.news.lite",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "食物语",
+    "description": "国风美少年亲密互动手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52735556_1579137995/256",
+    "packageName": "com.tencent.swy",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "腾讯NOW直播-附近美女真人视频聊天",
+    "description": "NOW，这是我的时刻！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42270933_1579068959/256",
+    "packageName": "com.tencent.now",
+    "bundleId": "109749282",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "火影忍者：忍者新世代",
+    "description": "全新火影忍者羁绊策略手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52759908_1578533648/256",
+    "packageName": "com.tencent.hyrzol",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "转转",
+    "description": "二手手机电脑数码家电图书奢侈品",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12170842_1579076769/256",
+    "packageName": "com.wuba.zhuanzhuan",
+    "bundleId": "100235519",
+    "urlScheme": "retriever://"
+  },
+  {
+    "url": "",
+    "name": "云梦四时歌",
+    "description": "新唐风妖系3D手游大作",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52632720_1577323874/256",
+    "packageName": "com.tencent.yunmeng",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "全民K歌",
+    "description": "全民K歌，你其实很会唱歌",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10966186_1579074340/256",
+    "packageName": "com.tencent.karaoke",
+    "bundleId": "910513149",
+    "urlScheme": "qmkege://"
+  },
+  {
+    "url": "",
+    "name": "全民水浒",
+    "description": "快意恩仇的梁山好汉之路！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10485956_1575882708/256",
+    "packageName": "com.tencent.Q108",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "安居客一二手房新房租房",
+    "description": "找二手房新房租房商铺写字楼",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_6694_1578894570/256",
+    "packageName": "com.anjuke.android.app",
+    "bundleId": "415606289",
+    "urlScheme": "openanjuke://"
+  },
+  {
+    "url": "",
+    "name": "小红书",
+    "description": "摇摇小红签，瓜分一个亿",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10868231_1579240589/256",
+    "packageName": "com.xingin.xhs",
+    "bundleId": "741292507",
+    "urlScheme": "xhsdiscover://"
+  },
+  {
+    "url": "",
+    "name": "手机QQ影音",
+    "description": "转码硬件加速，省时选择还多。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_7442_1569745560/256",
+    "packageName": "com.tencent.research.drop",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "WiFi管家—轻松连上好wifi",
+    "description": "出门连WiFi，赢千元手机福利",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12259403_1578995439/256",
+    "packageName": "com.tencent.wifimanager",
+    "bundleId": "100115355",
+    "urlScheme": "gtfreewifi://"
+  },
+  {
+    "url": "",
+    "name": "全民飞机大战",
+    "description": "腾讯第一飞行射击手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10366241_1579164507/256",
+    "packageName": "com.tencent.feiji",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "新腾讯游戏人生",
+    "description": "腾讯游戏玩家社区和福利平台",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52569839_1579572049/256",
+    "packageName": "com.tencent.gamelife",
+    "bundleId": "131149256",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "腾讯充值",
+    "description": "投资有风险，请谨慎选择。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11883312_1569835177/256",
+    "packageName": "com.tencent.unipay",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "一起来捉妖",
+    "description": "《一起来捉妖》是腾讯首款AR探索手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52596394_1579138452/256",
+    "packageName": "com.tencent.gwgo",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "热血传奇-跨服新大陆",
+    "description": "热血传奇",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11949435_1578624343/256",
+    "packageName": "com.tencent.tmgp.rxcq",
+    "bundleId": "981791837",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "王者荣耀",
+    "description": "2020玄雍资料片",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12127266_1579249305/256",
+    "packageName": "com.tencent.tmgp.sgame",
+    "bundleId": "989673964",
+    "urlScheme": "tencentlaunch1104466820://"
+  },
+  {
+    "url": "",
+    "name": "火锅视频",
+    "description": "精彩荟萃，尽在火锅视频",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52738017_1572426740/256",
+    "packageName": "com.tencent.firevideo",
+    "bundleId": "141261280",
+    "urlScheme": "firevideo://"
+  },
+  {
+    "url": "",
+    "name": "喜马拉雅",
+    "description": "听书听课听段子，想听啥都有",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_1183129_1579170959/256",
+    "packageName": "com.ximalaya.ting.android",
+    "bundleId": "876336838",
+    "urlScheme": "iting://"
+  },
+  {
+    "url": "",
+    "name": "天天象棋",
+    "description": "深受玩家喜爱的象棋",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_4504_1578575940/256",
+    "packageName": "com.tencent.qqgame.xq",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "奇迹暖暖",
+    "description": "超人气换装养成手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11869213_1579243863/256",
+    "packageName": "com.tencent.tmgp.qjnn",
+    "bundleId": "958022253",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "掌上WeGame",
+    "description": "游戏战绩、社区、资讯随时查看",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42266575_1579506897/256",
+    "packageName": "com.tencent.tgp",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "微信电话本",
+    "description": "腾讯出品的一款高清免费通话软件",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10140875_1564986142/256",
+    "packageName": "com.tencent.pb",
+    "bundleId": "929040357",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "乱世王者-天美出品SLG王者手游",
+    "description": "腾讯首款真实战争策略手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42359119_1578970016/256",
+    "packageName": "com.tencent.tmgp.wec",
+    "bundleId": "123210424",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "雷霆战机-- 超人气飞行射击类手游",
+    "description": "千种搭配，打造最强专属战机！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10453026_1579170484/256",
+    "packageName": "com.tencent.clover",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "光荣使命：使命行动",
+    "description": "《光荣使命》游戏拥有64平方公里的广阔地图；丰富的枪械道具，载具等设定，使游戏体验充满惊喜与随机性。每轮战斗，有100名演习者参与，玩家跳伞降落到地图任意地点，收集散落的资源，对抗岛上其他玩家。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52567621_1562146772/256",
+    "packageName": "com.tencent.cldts",
+    "bundleId": "129180700",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "狐妖小红娘",
+    "description": "国风纯爱创新回合手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52672740_1578621931/256",
+    "packageName": "com.tencent.tmgp.redfox",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "电池管家",
+    "description": "智能定位电池的耗电情况！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_268571_1555114892/256",
+    "packageName": "com.tencent.powermanager",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "奇迹：觉醒",
+    "description": "经典魔幻网游奇迹MU正版手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52446280_1577331568/256",
+    "packageName": "com.tencent.tmgp.tmsk.qj2",
+    "bundleId": "119809669",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "节奏大师",
+    "description": "金秀贤助阵帮你挑战高难度！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10170898_1578995193/256",
+    "packageName": "com.tencent.game.rhythmmaster",
+    "bundleId": "493901993",
+    "urlScheme": "tencentrm://"
+  },
+  {
+    "url": "",
+    "name": "小猿搜题",
+    "description": "3亿学生都在用的拍照搜题神器",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11217309_1579502771/256",
+    "packageName": "com.fenbi.android.solar",
+    "bundleId": "906995758",
+    "urlScheme": "solar://"
+  },
+  {
+    "url": "",
+    "name": "天天爱消除（葫芦兄弟版）",
+    "description": "国民级超萌消除手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10098215_1579423073/256",
+    "packageName": "com.tencent.peng",
+    "bundleId": "654897098",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "自由幻想手游",
+    "description": "十年经典，QQ自由幻想正版手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52535992_1576745145/256",
+    "packageName": "com.tencent.tmgp.ffom",
+    "bundleId": "135476453",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "腾讯欢乐麻将全集",
+    "description": "全国各地麻将玩法合集",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10125368_1578993578/256",
+    "packageName": "com.qqgame.happymj",
+    "bundleId": "689180123",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "心悦俱乐部",
+    "description": "腾讯游戏福利，帮你一网打尽",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52445834_1578982528/256",
+    "packageName": "com.tencent.tgclub",
+    "bundleId": "115643997",
+    "urlScheme": "tgclub://"
+  },
+  {
+    "url": "",
+    "name": "电击文库：零境交错",
+    "description": "和《电击文库》25部轻小说主角一起开启非日常吧！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52607363_1568198173/256",
+    "packageName": "com.tencent.tmgp.fcicv",
+    "bundleId": "132126988",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "天天炫斗",
+    "description": "炫斗之王，经典重燃",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10451659_1567760868/256",
+    "packageName": "com.tencent.game.VXDGame",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "我叫MT4-心向光明",
+    "description": "是时候，升级你的世界",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52619783_1578621907/256",
+    "packageName": "com.tencent.tmgp.mt4",
+    "bundleId": "125180728",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "腾讯自选股（腾讯官方炒股软件）",
+    "description": "投资有风险，请谨慎选择。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_206354_1579505520/256",
+    "packageName": "com.tencent.portfolio",
+    "bundleId": "485653572",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "魔法门之英雄无敌：战争纪元",
+    "description": "20年经典，策略烧脑卡牌",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42355124_1579228795/256",
+    "packageName": "com.tencent.tmgp.yxwdzzjy",
+    "bundleId": "118783445",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "QQ游戏",
+    "description": "无处不在的快乐，尽在QQ游戏！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_3439_1571388444/256",
+    "packageName": "com.tencent.qqgame",
+    "bundleId": "443908613",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "QQ飞车手游",
+    "description": "唯一官方正版手游，体验最原汁原味的漂移！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52488575_1577154186/256",
+    "packageName": "com.tencent.tmgp.speedmobile",
+    "bundleId": "123550470",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "天天酷跑",
+    "description": "全球最多人玩的跑酷游戏",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10099632_1579252998/256",
+    "packageName": "com.tencent.pao",
+    "bundleId": "653350791",
+    "urlScheme": "tencent100692648://"
+  },
+  {
+    "url": "",
+    "name": "欢乐王国",
+    "description": "一款制作精美的画线类益智游戏，你需要给过山车设计出完美的行进路线，收集到途中的所有金币才算完美过关。点击画出起点与终点之间的线路，然后点击PLAY按钮即可，灵活使用画面下方的各种轨道，它们可以帮助你完成困难的关卡。建造特殊的轨道时，点击并拖动可以制造出更长的轨道来。温馨提示：该游戏需要flash插件。游戏不支持部分HTC机型和部分4.0以上android系统。",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10976580_1555760677/256",
+    "packageName": "com.ledehuan.wangguod",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "欢乐斗地主（腾讯）",
+    "description": "组队2V2，好友开黑一起玩！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_97949_1578039880/256",
+    "packageName": "com.qqgame.hlddz",
+    "bundleId": "446324234",
+    "urlScheme": "tencent382://"
+  },
+  {
+    "url": "",
+    "name": "微云",
+    "description": "超过4亿人使用的云存储服务！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_213257_1579251809/256",
+    "packageName": "com.qq.qcloud",
+    "bundleId": "522700349",
+    "urlScheme": "weiyun://"
+  },
+  {
+    "url": "",
+    "name": "MOO音乐",
+    "description": "MOO音乐，发现新鲜流行乐",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52768734_1570776754/256",
+    "packageName": "com.tencent.blackkey",
+    "bundleId": "143426995",
+    "urlScheme": "blackkey://"
+  },
+  {
+    "url": "",
+    "name": "英雄杀-送现金",
+    "description": "腾讯第一竞技桌游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_1105393_1571627104/256",
+    "packageName": "com.qqgame.mic",
+    "bundleId": "483330461",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "QQ牧场",
+    "description": "腾讯年度最聚人气的模拟农场手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_280824_1555752991/256",
+    "packageName": "air.com.tencent.qqpasture",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "仙剑奇侠传四手游",
+    "description": "承君此诺，必守一生",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52667837_1578898856/256",
+    "packageName": "com.tencent.xishanju.xj4",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "酷我音乐",
+    "description": "海量音乐，抢先听庆余年有声小说",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11771_1580481182/256",
+    "packageName": "cn.kuwo.player",
+    "bundleId": "588673713",
+    "urlScheme": "com.kuwo.kwmusic.kwmusicForKwsing://"
+  },
+  {
+    "url": "",
+    "name": "TIM-QQ办公简洁版",
+    "description": "效率办公团队协作神器",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52432331_1555137110/256",
+    "packageName": "com.tencent.tim",
+    "bundleId": "117521388",
+    "urlScheme": "tim://"
+  },
+  {
+    "url": "",
+    "name": "云裳羽衣",
+    "description": "3D恋爱换装手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52530587_1579608129/256",
+    "packageName": "com.tencent.tako.muses",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "侍魂胧月传说",
+    "description": "腾讯首款3D和风动作手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52703264_1576634664/256",
+    "packageName": "com.tencent.shihun.android",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "篝火营地",
+    "description": "游戏文化传火者",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52656222_1575877151/256",
+    "packageName": "com.tencent.wegamex",
+    "bundleId": "138356281",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "拳皇98 终极之战OL--腾讯第一街机版手游",
+    "description": "SNK正版授权拳皇卡牌手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11869393_1579231938/256",
+    "packageName": "com.tencent.tmgp.kof98",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "火影忍者",
+    "description": "正版火影忍者格斗手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11994436_1579138509/256",
+    "packageName": "com.tencent.KiHan",
+    "bundleId": "955396648",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "圣斗士星矢（腾讯）",
+    "description": "周年庆典: 黄金之战  年度对决",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42253245_1576719336/256",
+    "packageName": "com.tencent.tmgp.sskgame",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "御龙在天",
+    "description": "兄弟，携手打天下！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42269014_1576805539/256",
+    "packageName": "com.tencent.tmgp.ylm",
+    "bundleId": "106105109",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "波洞-看漫画动漫社区",
+    "description": "腾讯动漫画二次元内容互动社区",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52663853_1579159316/256",
+    "packageName": "com.tencent.nijigen",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "Keep",
+    "description": "健康跑步瑜伽，达人运动社区",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_12001445_1579433153/256",
+    "packageName": "com.gotokeep.keep",
+    "bundleId": "952694580",
+    "urlScheme": "keep://"
+  },
+  {
+    "url": "",
+    "name": "QQ极速版",
+    "description": "超小安装包，省内存，聊天更畅快",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10325815_1566991088/256",
+    "packageName": "com.tencent.qqlite",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "红警OL手游",
+    "description": "《红警OL》EA授权，正版红警手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52584028_1577934471/256",
+    "packageName": "com.tencent.tmgp.hjol",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "战旗直播",
+    "description": "天生爱玩，游戏至上！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11363643_1578990125/256",
+    "packageName": "com.gameabc.zhanqiAndroid",
+    "bundleId": "920273306",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "QQ国际版",
+    "description": "腾讯官方出品的手机QQ国际版本，助您好友遍天下，跨语言沟通无障碍！\r 全球超过10亿注册用户、同时在线人数超过2亿的QQ将使您的网络社交生活充满无限可能！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10087866_1555078605/256",
+    "packageName": "com.tencent.mobileqqi",
+    "bundleId": "710380093",
+    "urlScheme": "mqqiapi://"
+  },
+  {
+    "url": "",
+    "name": "斗鱼极速版",
+    "description": "超快超好用的游戏娱乐直播App",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52716907_1572339270/256",
+    "packageName": "com.douyu.rush",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "波波视频",
+    "description": "一波又一波 波波料更多",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52537409_1579248845/256",
+    "packageName": "tv.yixia.bobo",
+    "bundleId": "130647440",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "企业微信",
+    "description": "让每个企业都有自己的微信",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_42270467_1580547683/256",
+    "packageName": "com.tencent.wework",
+    "bundleId": "108789706",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "哈皮",
+    "description": "一个让你开心到停不下来的APP",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52698873_1555763734/256",
+    "packageName": "com.tencent.moaudio",
+    "bundleId": "144131305",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "魔力宝贝",
+    "description": "《魔力宝贝》好玩不累的回合手游",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_52425468_1577247605/256",
+    "packageName": "com.tencent.crossgate",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "糖果传奇-风靡全球消除手游",
+    "description": "消除手游，与好友比拼实力吧！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10648371_1555081688/256",
+    "packageName": "com.tencent.king.candycrushsaga",
+    "bundleId": "838804006",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "快看漫画",
+    "description": "海量独家热漫等你来追♥",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_11668248_1579133044/256",
+    "packageName": "com.kuaikan.comic",
+    "bundleId": "906936224",
+    "urlScheme": "kuaikansso://"
+  },
+  {
+    "url": "",
+    "name": "掌上道聚城",
+    "description": "游戏道具5元抵用金免费领",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10898430_1579260765/256",
+    "packageName": "com.tencent.djcity",
+    "bundleId": "919503025",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "QQ邮箱",
+    "description": "高效管理你的所有邮箱",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_1129680_1579175185/256",
+    "packageName": "com.tencent.androidqqmail",
+    "bundleId": "473225145",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "全民农场",
+    "description": "轻松好玩时尚的农场不容错过！",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_10553459_1573201924/256",
+    "packageName": "com.tencent.Qfarm",
+    "bundleId": "None",
+    "urlScheme": "None"
+  },
+  {
+    "url": "",
+    "name": "QQ同步助手-微信文件安全云备份",
+    "description": "新春手机克隆，微信文件安全备份",
+    "iconUrl": "http://pp.myapp.com/ma_icon/0/icon_8461_1579501400/256",
+    "packageName": "com.tencent.qqpim",
+    "bundleId": "389481236",
+    "urlScheme": "qqpim://"
+  }
+]
